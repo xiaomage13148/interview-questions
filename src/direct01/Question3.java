@@ -1,4 +1,4 @@
-package question01;
+package direct01;
 
 import java.util.HashMap;
 import java.util.List;
